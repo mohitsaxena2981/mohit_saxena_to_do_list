@@ -1,0 +1,31 @@
+@media screen and (min-width: 480px) {
+    .mohit{
+        margin-left: 35%;
+    }
+    .cardsx{
+        width: 400px;
+        margin-left: 35%;
+    }
+    .ss{
+        width: 400px;
+    }
+}
+
+.navbar-brand{
+    color: goldenrod;
+}
+
+body{
+   background: powderblue;
+}
+
+.btn{
+    color:#000;
+    background-color: goldenrod;
+}
+
+.btn:hover{
+    background-color: orangered;
+    transition: 0.3s;
+}
+
